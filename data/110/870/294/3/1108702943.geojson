@@ -1,0 +1,77 @@
+{
+  "id": 1108702943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"55.3115863,25.080274,55.3115863,25.080274",
+    "geom:latitude":25.080274,
+    "geom:longitude":55.311586,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "sg:address":"PO Box 333929",
+    "sg:city":"Dubai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"00000",
+    "sg:tags":[
+        "real-estate",
+        "property",
+        "emerging-markets",
+        "business-intelligence",
+        "china",
+        "india",
+        "russia",
+        "turkey",
+        "brazil",
+        "dubai",
+        "uae"
+    ],
+    "sg:website":"http://www.reidin.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rSQPHhkgy6dtaqKqrXSB9_25.080274_55.311586@1308163241"
+    },
+    "wof:country":"AE",
+    "wof:created":1474570892,
+    "wof:geomhash":"a39a7b58357fc75c62b171c9e2e6a6cb",
+    "wof:hierarchy":[],
+    "wof:id":1108702943,
+    "wof:lastmodified":1474570892,
+    "wof:name":"REIDIN.com",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "real-estate",
+        "property",
+        "emerging-markets",
+        "business-intelligence",
+        "china",
+        "india",
+        "russia",
+        "turkey",
+        "brazil",
+        "dubai",
+        "uae"
+    ]
+},
+  "bbox": [
+    55.3115863,
+    25.080274,
+    55.3115863,
+    25.080274
+],
+  "geometry": {"coordinates":[55.3115863,25.080274],"type":"Point"}
+}

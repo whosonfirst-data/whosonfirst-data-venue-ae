@@ -1,0 +1,61 @@
+{
+  "id": 1108702945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"55.2373803,25.1910055,55.2373803,25.1910055",
+    "geom:latitude":25.191005,
+    "geom:longitude":55.23738,
+    "iso:country":"AE",
+    "mz:hierarchy_label":1,
+    "sg:address":"PO Box 115548  Office No. 222  Al Attar Building",
+    "sg:city":"Dubai",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"UAE",
+    "sg:website":"http://www.contentsyndicate.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85632573,
+        85930539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J8qv4TFfMQ5fSVVDCBMCX_25.191005_55.237380@1308163241"
+    },
+    "wof:country":"AE",
+    "wof:created":1474570893,
+    "wof:geomhash":"0aed3130bfd50c537d44bd40314eda3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85632573,
+            "neighbourhood_id":85930539,
+            "venue_id":1108702945
+        }
+    ],
+    "wof:id":1108702945,
+    "wof:lastmodified":1474570893,
+    "wof:name":"Content Syndicate",
+    "wof:parent_id":85930539,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-ae",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    55.2373803,
+    25.1910055,
+    55.2373803,
+    25.1910055
+],
+  "geometry": {"coordinates":[55.2373803,25.1910055],"type":"Point"}
+}
